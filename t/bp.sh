@@ -24,7 +24,7 @@ echo Team:DIOS DE LA  DISTRACTION
 echo Tools Created By:IDDO X-PLOID
 echo github:https://github.com/Adminiddo/
 echo Versi:2.0
-curl https://theblackpaper.org/tools.php
+curl 
 echo ------------------------------
 echo $green
 echo "1.Install Bahan"
