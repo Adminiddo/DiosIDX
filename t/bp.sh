@@ -16,7 +16,7 @@ echo
 echo
 echo
 echo $cyan
-figlet TBP | lolcat
+figlet WEBDAV IDX | lolcat
 echo $cyan
 echo ------------------------------
 echo Nama Tools:Dios De La Distraction
@@ -24,7 +24,7 @@ echo Team:DIOS DE LA  DISTRACTION
 echo Tools Created By:IDDO X-PLOID
 echo github:https://github.com/Adminiddo/
 echo Versi:2.0
-curl https://www.zonaiddoxploid.xyz/
+curl https://theblackpaper.org/tools.php
 echo ------------------------------
 echo $green
 echo "1.Install Bahan"
